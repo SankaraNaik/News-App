@@ -35,7 +35,7 @@ ul{
     /* gap: 2rem; */
 }
 .container{
-    max-width: 1380px;
+    max-width: 12000px;
     margin-inline: auto;
     overflow: hidden;
 }
@@ -140,3 +140,4 @@ align-items: start;
 .news-source{
     margin-block: 12px;
 }
+
